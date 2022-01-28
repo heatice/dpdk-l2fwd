@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "rte_jhash.h": "c",
+        "rte_mbuf.h": "c",
+        "hanr_packet.h": "c",
+        "hanr_process_main.h": "c",
+        "hanr_workers.h": "c",
+        "unistd.h": "c",
+        "stdio.h": "c",
+        "hanr_msg.h": "c",
+        "hanr_common.h": "c"
+    }
+}
